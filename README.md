@@ -1,4 +1,4 @@
-## Descrição:
+## Observação:
 - Todos os exercicios tem como base os exemplos citados em aula, e foram catalogados através de imagens, para futuras consultas em estudo.
 
 ## Descrição: 
